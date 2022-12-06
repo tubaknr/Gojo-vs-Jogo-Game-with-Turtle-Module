@@ -8,8 +8,6 @@ wn.title("Gojolu Yılan Oyunu")
 wn.setup(700,600)
 wn.tracer(0)
 wn.bgcolor("green")
-#BCGROUND A JUJUTSU TEKNİK LİSESİ RESMİ KOY
-#gojo her yendiğinde gojonun gülüşü olsun
 turtle.register_shape("gojo_kucuk_jpg.gif")
 turtle.register_shape("jogo.gif")
 
@@ -116,36 +114,6 @@ while True:
 
 
 wn.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
